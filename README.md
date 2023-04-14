@@ -7,3 +7,7 @@ Actividades propuestas por Luis Sastre en el Curso de Big Data
 
 #Día 2\
 01- Bucles
+
+#Día 3\
+01- Spark\
+02- RDD
